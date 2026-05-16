@@ -39,7 +39,6 @@ Con el tiempo me fui especializando en automatización y observabilidad de siste
 Desde entonces he trabajado principalmente como Full Stack Engineer — aproximadamente 60% frontend y 40% backend — participando en proyectos de fintech, healthcare, ciberseguridad, e-commerce, plataformas de streaming y tecnologías emergentes.
 
 Lo que más me motiva es la intersección entre ingeniería y experiencia humana: crear productos técnicamente sólidos, visualmente intuitivos y realmente útiles para quienes los usan. Disfruto moverme entre arquitectura, UX, infraestructura, producto y liderazgo, aportando una visión amplia construida a lo largo de dos décadas trabajando en múltiples capas de la tecnología.
----
 
 
 ---
