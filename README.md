@@ -5,7 +5,7 @@ https://github.com/maggiben
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hola!+Soy+Benjamin;💻+Desarrollador+Full+Stack+Senior;🚀+19+Años+de+Experiencia;🌍+Amante+de+la+Innovación+y+la+Tecnología" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hola!+Soy+Benjamin;💻+Desarrollador+Full+Stack+Senior;🚀+20+Años+de+Experiencia;🌍+Amante+de+la+Innovación+y+la+Tecnología" alt="Typing SVG" />
 
 </div>
 
@@ -34,7 +34,7 @@ Soy **Desarrollador Full Stack Senior** con más de **24+ años de experiencia p
 
 | 💠 Lenguajes / Frameworks | 🔧 Herramientas / DevOps | 🎨 UI / Frontend | ☁️ Sistemas / Servidores |
 |----------------------------|---------------------------|------------------|---------------------------|
-| C# (FullStack) · .NET 8 · ASP.NET · WPF · WinForms · UWP · Xamarin · MAUI · AvaloniaUI | Git · GitHub · Docker · CI/CD · VSCode · Visual Studio | React · Flutter · TailwindCSS · Bootstrap | Linux · Ubuntu Server · Nginx |
+| TypeScript (FullStack) · Node · Express · NestJS · NextJS · React · MaterialUI · Antd · Forms | Git · GitHub · Docker · CI/CD · VSCode · Visual Studio | React · Flutter · TailwindCSS · Bootstrap | Linux · Ubuntu Server · Nginx |
 | MonoGame · Unity · Java · NodeJS · Python | MySQL · SQLite · MongoDB | Sass · HTML5 · TypeScript | Cloud Deployments · Web APIs |
 
 </div>
