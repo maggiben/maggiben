@@ -5,7 +5,7 @@ https://github.com/maggiben
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hola!+Soy+Benjamin Maggi;💻+Desarrollador+Full+Stack+Senior;🚀+20+Años+de+Experiencia;🌍+Amante+de+la+Innovación+y+la+Tecnología" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hola!+Soy+Benjamin;💻+Desarrollador+Full+Stack+Senior;🚀+19+Años+de+Experiencia;🌍+Amante+de+la+Innovación+y+la+Tecnología" alt="Typing SVG" />
 
 </div>
 
