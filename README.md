@@ -35,7 +35,7 @@ Soy **Desarrollador Full Stack Senior** con más de **24+ años de experiencia p
 ### Frontend  
 <a href="https://github.com/tayyabadev">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=react,next,html,css,bootstrap,tailwind,js&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -43,7 +43,7 @@ Soy **Desarrollador Full Stack Senior** con más de **24+ años de experiencia p
 ### Languages
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=typescript,js,c,python,bash,&perline=4" /> 
 </div>
 </a>
 
@@ -69,7 +69,15 @@ Soy **Desarrollador Full Stack Senior** con más de **24+ años de experiencia p
 
 ---
 
-## 📊 Estadísticas
+
+> [!IMPORTANT]
+> Don't take urself too seriously, we're all pretty dumbs here.
+
+<div class="badges-githubstats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="aaronedev's github statistics" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/api?username=aaronedev&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="aaronedev's github statistics" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="aaronedev's github commit streak" height="140" />
+</div>
 
 <div align="center">
   
