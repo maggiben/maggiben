@@ -36,6 +36,8 @@ Since then, I’ve worked primarily as a Full Stack Engineer — roughly 60% fro
 
 What keeps me motivated is the intersection between engineering and human experience: building products that are technically solid, visually intuitive, and meaningful for the people who use them. I enjoy moving between architecture, UX, infrastructure, product thinking, and leadership, bringing a broad perspective shaped by two decades across multiple layers of technology.
 
+---
+
 🧠 Sobre mí
 
 Soy un Desarrollador Full Stack con más de 20 años de experiencia en IT, impulsado por la curiosidad, la capacidad de adaptación y la pasión por crear sistemas que las personas realmente disfruten usar.
