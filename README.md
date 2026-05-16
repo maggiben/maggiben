@@ -17,15 +17,38 @@ https://github.com/maggiben
 
 ---
 
-## 🧠 Sobre Mí
+## 🧠 About me
 
-Soy **Desarrollador Full Stack Senior** con más de **24+ años de experiencia profesional** construyendo soluciones empresariales, sistemas interactivos, aplicaciones multiplataforma y videojuegos.  
+Im a **FullStack Dev** with 20 years of experience in IT, started my carrer in the 2000 coding in x86 assembly for vending machines managed by central systems.
+I moved on to SysAdmin in the mid 2000 and did mostly Linux Unix service and maintenance of big datacenters at the peak of my haycean days as a sysadmin I managed and automated 600+ IBM P5 series AIX running servers at Novartis datacenters in basel
+After some time I moved to system automation where I had the chance to interact with dashboardsm which became my passion, I read stephen flew and ... and learned how dashboard work, got a chace to design quite a few in an era where charting was done in d3.js this where the early days of serious data dashboards.
+Since then I've been working fullstack dev 60% frontend 40% backend or so in many different industries, fintech, healthcare, cibercecurity, ecommerce, streaming, and the some 🧠 About Me
 
-💡 Me apasiona combinar creatividad con ingeniería:  
-- Construyo **aplicaciones robustas** y **interfaces modernas**.  
-- Diseños basados en **rendimiento**, **escalabilidad** y **experiencia de usuario**.  
-- Siempre explorando nuevas tecnologías y paradigmas.
+I’m a Full Stack Developer with more than 20 years of experience in IT, driven by curiosity, adaptability, and a passion for building systems that people actually enjoy using.
 
+My journey started in the early 2000s writing x86 Assembly for vending machines connected to centralized management systems — a hands-on introduction to low-level programming, hardware integration, and real-world reliability.
+
+In the mid-2000s, I transitioned into Systems Administration, working primarily with Linux and Unix environments during the golden era of large-scale datacenters. One of the highlights of that stage was at Novartis datacenters in Basel, where I managed and automated more than 600 IBM P5 Series servers running AIX. That experience shaped my approach to scalability, automation, and operational excellence.
+
+Over time, I moved deeper into system automation and observability, where I discovered a passion for dashboards, data visualization, and user-centric engineering. Inspired by pioneers in information design and early dashboard architecture, I had the opportunity to design and build dashboards during the formative years of modern data visualization — back when much of the ecosystem was still being crafted with tools like D3.js.
+
+Since then, I’ve worked primarily as a Full Stack Engineer — roughly 60% frontend and 40% backend — across a wide range of industries including fintech, healthcare, cybersecurity, e-commerce, streaming platforms, and emerging technologies.
+
+What keeps me motivated is the intersection between engineering and human experience: building products that are technically solid, visually intuitive, and meaningful for the people who use them. I enjoy moving between architecture, UX, infrastructure, product thinking, and leadership, bringing a broad perspective shaped by two decades across multiple layers of technology.
+
+🧠 Sobre mí
+
+Soy un Desarrollador Full Stack con más de 20 años de experiencia en IT, impulsado por la curiosidad, la capacidad de adaptación y la pasión por crear sistemas que las personas realmente disfruten usar.
+
+Mi camino comenzó a principios de los 2000 escribiendo código en x86 Assembly para máquinas expendedoras conectadas a sistemas centralizados de gestión, una experiencia que me introdujo de lleno al desarrollo de bajo nivel, la integración con hardware y la importancia de la confiabilidad en entornos reales.
+
+A mediados de los 2000 hice la transición hacia Administración de Sistemas, trabajando principalmente con entornos Linux y Unix durante la época dorada de los grandes datacenters. Uno de los puntos más importantes de esa etapa fue mi trabajo en los datacenters de Novartis en Basilea, donde administré y automaticé más de 600 servidores IBM P5 Series ejecutando AIX. Esa experiencia moldeó mi visión sobre escalabilidad, automatización y excelencia operativa.
+
+Con el tiempo me fui especializando en automatización y observabilidad de sistemas, donde descubrí una fuerte pasión por los dashboards, la visualización de datos y la ingeniería centrada en el usuario. Inspirado por referentes del diseño de información y la arquitectura de dashboards, tuve la oportunidad de diseñar y construir dashboards en los primeros años de la visualización de datos moderna, cuando gran parte del ecosistema todavía se desarrollaba con herramientas como D3.js.
+
+Desde entonces he trabajado principalmente como Full Stack Engineer — aproximadamente 60% frontend y 40% backend — participando en proyectos de fintech, healthcare, ciberseguridad, e-commerce, plataformas de streaming y tecnologías emergentes.
+
+Lo que más me motiva es la intersección entre ingeniería y experiencia humana: crear productos técnicamente sólidos, visualmente intuitivos y realmente útiles para quienes los usan. Disfruto moverme entre arquitectura, UX, infraestructura, producto y liderazgo, aportando una visión amplia construida a lo largo de dos décadas trabajando en múltiples capas de la tecnología.
 ---
 
 ## Skill Set:
@@ -35,7 +58,7 @@ Soy **Desarrollador Full Stack Senior** con más de **24+ años de experiencia p
 ### Frontend  
 <a href="https://github.com/tayyabadev">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=react,next,html,css,bootstrap,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=react,next,html,css,mui,antd,tailwind,js&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
