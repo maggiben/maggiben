@@ -85,10 +85,10 @@ Lo que más me motiva es la intersección entre ingeniería y experiencia humana
 
 ---
 
-## 🚀 Intereses Actuales
+## 🚀 Interests
 
-🎮 Desarrollo de juegos con **MonoGame** y **Unity**  
-⚙️ Aplicaciones modernas con **.NET 8**, **MAUI** y **AvaloniaUI**  
+🎮 Development of AI powered algo trading using **LLMs** and **TypeScript**
+⚙️ Aplicaciones modernas con **Node**, **React** y **Postgres**  
 🧠 Inteligencia Artificial aplicada a **asistentes virtuales y productividad**  
 🌐 Backends en **Flask / FastAPI / NodeJS**  
 
