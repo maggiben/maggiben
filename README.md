@@ -28,16 +28,35 @@ Soy **Desarrollador Full Stack Senior** con más de **24+ años de experiencia p
 
 ---
 
-## 🧰 Stack Tecnológico
+## Skill Set:
 
-<div align="center">
+<table><tr><td valign="top" width="25%">
 
-| 💠 Lenguajes / Frameworks | 🔧 Herramientas / DevOps | 🎨 UI / Frontend | ☁️ Sistemas / Servidores |
-|----------------------------|---------------------------|------------------|---------------------------|
-| TypeScript (FullStack) · Node · Express · NestJS · NextJS · React · MaterialUI · Antd · Forms | Git · GitHub · Docker · CI/CD · VSCode · Visual Studio | React · Flutter · TailwindCSS · Bootstrap | Linux · Ubuntu Server · Nginx |
-| MonoGame · Unity · Java · NodeJS · Python | MySQL · SQLite · MongoDB | Sass · HTML5 · TypeScript | Cloud Deployments · Web APIs |
-
+### Frontend  
+<a href="https://github.com/tayyabadev">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
 </div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
 ---
 
