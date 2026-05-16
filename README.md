@@ -21,7 +21,7 @@ https://github.com/maggiben
 
 Im a **FullStack Dev** with 20 years of experience in IT, started my carrer in the 2000 coding in x86 assembly for vending machines managed by central systems.
 I moved on to SysAdmin in the mid 2000 and did mostly Linux Unix service and maintenance of big datacenters at the peak of my haycean days as a sysadmin I managed and automated 600+ IBM P5 series AIX running servers at Novartis datacenters in basel
-After some time I moved to system automation where I had the chance to interact with dashboardsm which became my passion, I read stephen flew and ... and learned how dashboard work, got a chace to design quite a few in an era where charting was done in d3.js this where the early days of serious data dashboards.
+After some time I moved to system automation where I had the chance to interact with dashboardsm which became my passion, I read  Stephen Few and Edward Tufte and learned how dashboard work, got a chace to design quite a few in an era where charting was done in d3.js this where the early days of serious data dashboards.
 Since then I've been working fullstack dev 60% frontend 40% backend or so in many different industries, fintech, healthcare, cibercecurity, ecommerce, streaming, and the some 🧠 About Me
 
 I’m a Full Stack Developer with more than 20 years of experience in IT, driven by curiosity, adaptability, and a passion for building systems that people actually enjoy using.
@@ -38,7 +38,7 @@ What keeps me motivated is the intersection between engineering and human experi
 
 ---
 
-🧠 Sobre mí
+## 🧠 Sobre mí
 
 Soy un Desarrollador Full Stack con más de 20 años de experiencia en IT, impulsado por la curiosidad, la capacidad de adaptación y la pasión por crear sistemas que las personas realmente disfruten usar.
 
