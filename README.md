@@ -56,7 +56,7 @@ Lo que más me motiva es la intersección entre ingeniería y experiencia humana
 ### Frontend  
 <a href="https://github.com/tayyabadev">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=react,next,html,css,mui,bootstrap,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=react,next,html,css,mui,bootstrap,jquery,tailwind&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -73,7 +73,7 @@ Lo que más me motiva es la intersección entre ingeniería y experiencia humana
 ### Others
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,notion,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,notion,bitbucket,,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
