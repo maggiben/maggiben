@@ -5,7 +5,7 @@ https://github.com/maggiben
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hola!+Soy+Benjamin;💻+Desarrollador+Full+Stack+Senior;🚀+20+Años+de+Experiencia;🌍+Amante+de+la+Innovación+y+la+Tecnología" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hola!+Soy+Benjamin;💻+Desarrollador+Full+Stack;🚀+20+Años+de+Experiencia;🌍+Amante+de+la+Innovación+y+la+Tecnología" alt="Typing SVG" />
 
 </div>
 
@@ -25,6 +25,12 @@ Since then, I’ve worked primarily as a Full Stack Engineer — roughly 60% fro
 What keeps me motivated is the intersection between engineering and human experience: building products that are technically solid, visually intuitive, and meaningful for the people who use them. I enjoy moving between architecture, UX, infrastructure, product thinking, and leadership, bringing a broad perspective shaped by two decades across multiple layers of technology.
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hello!+Im+Benjamin;💻+Full+Stack+Developer;🚀+20+Years+of+Experience;🌍+I+love+Innovación+and+Technology" alt="Typing SVG" />
+
+</div>
 
 ## 🧠 Sobre mí
 
