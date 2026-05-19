@@ -93,6 +93,13 @@ Lo que más me motiva es la intersección entre ingeniería y experiencia humana
 > [!IMPORTANT]
 > Don't take urself too seriously, we're all pretty dumbs here.
 
+## Github Stats:
+<p align="center">
+    <a href="https://github.com/tayyabadev">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
 <div class="badges-githubstats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="aaronedev's github commit streak" height="240" />
 </div>
