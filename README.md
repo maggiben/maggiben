@@ -41,14 +41,6 @@ Desde entonces he trabajado principalmente como Full Stack Engineer — aproxima
 Lo que más me motiva es la intersección entre ingeniería y experiencia humana: crear productos técnicamente sólidos, visualmente intuitivos y realmente útiles para quienes los usan. Disfruto moverme entre arquitectura, UX, infraestructura, producto y liderazgo, aportando una visión amplia construida a lo largo de dos décadas trabajando en múltiples capas de la tecnología.
 
 
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maggiben&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</div>
-
----
-
 ## Skill Set:
 
 <table><tr><td valign="top" width="25%">
@@ -110,8 +102,10 @@ Lo que más me motiva es la intersección entre ingeniería y experiencia humana
 ## 🏆 Logros y Reputación
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=maggiben&theme=dracula&no-bg=true&margin-w=8&margin-h=8)
+  <img src="https://github-profile-trophy.vercel.app/?username=maggiben&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</div>
+
+---
 
 </div>
 
