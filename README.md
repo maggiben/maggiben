@@ -82,11 +82,11 @@ Lo que más me motiva es la intersección entre ingeniería y experiencia humana
 
 ## 🚀 Interests
 
-🎮 Development of AI powered algo trading using **LLMs** and **TypeScript**
-⚙️ Aplicaciones modernas con **Node**, **React** y **Postgres**  
-🧠 Inteligencia Artificial aplicada a **asistentes virtuales y productividad**  
-🌐 Backends en **Flask / FastAPI / NodeJS**  
-
+- 🎮 Development of AI powered apps using **LLMs** and **TypeScript**
+- ⚙️ Modern apps with **Node**, **React** y **Postgres**  
+- 🧠 Agenting solutions **virtual asistants and workflows**  
+- 🌐 Backends en **Flask / FastAPI / NodeJS**  
+- 🌐 Frontend en **React / Next / Vanilla**  
 ---
 
 
